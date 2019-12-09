@@ -1,0 +1,13 @@
+# VS user prefs
+.vs
+*.user
+# Build artifacts
+dist/
+PiaWfpCallout/Debug
+PiaWfpCallout/Release
+PiaWfpCallout/x64
+# Build temporary files
+tmp/
+# makecab temporary files
+/setup.inf
+/setup.rpt
